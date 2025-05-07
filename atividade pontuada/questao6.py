@@ -7,7 +7,6 @@ segunda_nota = float(input("Digite sua segunda nota"))
 soma = primeira_nota + segunda_nota
 media = soma
 
-
 print(f"media: (media)")
 
 if media >=6 :

@@ -1,9 +1,9 @@
 import os
 os.system("clear")
 
-cd = float(input("Digite a cor do cd: "))
+Cd = str(input("Digite a cor do cd: "))
 
-match cd:
+match Cd:
     case "verde":
         print("R$10,00")
     case "azul":
